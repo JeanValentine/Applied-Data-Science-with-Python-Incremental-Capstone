@@ -93,3 +93,10 @@ The dataset consists of various features that impact bike rentals, such as weath
     * Box plot to identify outliers in Temperature and Rented Bike Count
 3. Record observations and insights from visualizations
 4. Save plots and observations for reporting purposes
+
+# Output: 
+![OUTPUT](1.png)
+![OUTPUT](2.png)
+![OUTPUT](3.png)
+![OUTPUT](4.png)
+![OUTPUT](5.png)
