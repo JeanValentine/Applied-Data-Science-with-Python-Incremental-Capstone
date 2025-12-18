@@ -1,0 +1,14 @@
+{
+    "Visualizations": [
+        "The bar plot shows that Summer has the highest average rented bike count, while Winter has the lowest.",
+        "The line plot indicates peak rental hours around 8 AM and 6 PM, likely corresponding to commuting times.",
+        "The heatmap reveals strong correlations between Temperature and Rented Bike Count, suggesting that warmer weather increases bike rentals.",
+        "The box plot indicates some outliers in both Temperature and Rented Bike Count, which may require further investigation."
+    ],
+    "Plots": {
+        "Average Rented Bike Count by Seasons": "average_rented_bike_count_by_seasons.png",
+        "Hourly Rented Bike Count Throughout the Day": "hourly_rented_bike_count.png",
+        "Correlation Heatmap of Numerical Variables": "correlation_heatmap.png",
+        "Box Plot of Temperature and Rented Bike Count": "box_plot_temperature_rented_bike_count.png"
+    }
+}
